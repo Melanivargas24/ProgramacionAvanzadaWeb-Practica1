@@ -34,14 +34,22 @@ namespace Practica1.Controllers
             return Ok(vehiculoEspecifico);
         }
 
-
-        //Métodos generados automáticamente
-
-
         // POST api/<VehiculoController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult Post([FromBody] Vehiculo vehiculo)
         {
+            if (vehiculo == null)
+            {
+                return BadRequest("El vehículo no puede ser nulo");
+            }
+
+            if (string.IsNullOrEmpty(vehiculo.Marca) || string.IsNullOrEmpty(vehiculo.Modelo))
+            {
+                return BadRequest("La marca y el modelo son requeridos");
+            }
+
+            vehiculos.Add(vehiculo);
+            return CreatedAtAction(nameof(GetVehiculo), new { marca = vehiculo.Marca }, vehiculo);
         }
 
         // PUT api/<VehiculoController>/5
