@@ -9,13 +9,14 @@ Desarrollo de una API REST para una empresa dedicada a la compra y venta de auto
 
 ## Especificaciones básicas
 
-**a. Arquitectura del proyecto:
+**a. Arquitectura del proyecto:**
 
 Controllers: Contiene el controlador `VehiculoController.cs`, que se encarga de manejar las peticiones HTTP relacionadas con el modelo Vehiculo.
 Models: Contiene la clase `Vehiculo.cs`, que representa la estructura de datos.
 Program.cs: Configura la aplicación, los servicios y el pipeline de ejecución.
 
-**b. Principios SOLID implementados:
-- S (Single Responsibility Principle): La clase Vehiculo solo representa datos, y VehiculoController solo maneja las peticiones relacionadas. Cada clase tiene una única responsabilidad clara.
 
+**b. Principios SOLID implementados:**
+
+- S (Single Responsibility Principle): La clase Vehiculo solo representa datos, y VehiculoController solo maneja las peticiones relacionadas. Cada clase tiene una única responsabilidad clara.
 - O (Open/Closed Principle): La arquitectura permite extender funcionalidades (como agregar más validaciones) sin modificar las existentes.
