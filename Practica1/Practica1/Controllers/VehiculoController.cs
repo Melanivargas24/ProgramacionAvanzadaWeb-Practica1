@@ -29,7 +29,7 @@ namespace Practica1.Controllers
         [HttpGet("GetVehiculo")]
         public ActionResult GetVehiculo(string marca)
         {
-            var vehiculoEspecifico = vehiculos.Find(x => x.Marca == marca);
+            var vehiculoEspecifico = vehiculos.Find(v => v.Marca == marca);
 
             return Ok(vehiculoEspecifico);
         }
@@ -54,8 +54,25 @@ namespace Practica1.Controllers
 
         // PUT api/<VehiculoController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public ActionResult Put(int id, [FromBody] Vehiculo vehiculo)
         {
+            if (vehiculo == null)
+            {
+                return BadRequest("El vehículo no puede ser nulo");
+            }
+
+            if (string.IsNullOrEmpty(vehiculo.Marca) || string.IsNullOrEmpty(vehiculo.Modelo))
+            {
+                return BadRequest("La marca y el modelo son requeridos");
+            }
+
+            if (id < 0 || id >= vehiculos.Count)
+            {
+                return NotFound("No se encontró un vehículo con ese ID");
+            }
+
+            vehiculos[id] = vehiculo;
+            return Ok($"Vehículo con ID {id} actualizado correctamente");
         }
 
         // DELETE api/<VehiculoController>/5

@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Melani\\Documents\\Progra Avanzada II\\Practica1\\Practica1\\Practica1.csproj",
+      "projectUniqueName": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj",
       "projectName": "Practica1",
-      "projectPath": "D:\\Melani\\Documents\\Progra Avanzada II\\Practica1\\Practica1\\Practica1.csproj",
+      "projectPath": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj",
       "packagesPath": "C:\\Users\\Melani\\.nuget\\packages\\",
-      "outputPath": "D:\\Melani\\Documents\\Progra Avanzada II\\Practica1\\Practica1\\obj\\",
+      "outputPath": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

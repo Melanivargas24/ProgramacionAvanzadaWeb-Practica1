@@ -34,3 +34,40 @@ D:\Melani\Documents\Progra Avanzada II\Practica1\Practica1\obj\Debug\net8.0\refi
 D:\Melani\Documents\Progra Avanzada II\Practica1\Practica1\obj\Debug\net8.0\Practica1.pdb
 D:\Melani\Documents\Progra Avanzada II\Practica1\Practica1\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
 D:\Melani\Documents\Progra Avanzada II\Practica1\Practica1\obj\Debug\net8.0\ref\Practica1.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\appsettings.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Practica1.staticwebassets.endpoints.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Practica1.exe
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Practica1.deps.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Practica1.runtimeconfig.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Practica1.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Practica1.pdb
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.csproj.AssemblyReference.cache
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.AssemblyInfoInputs.cache
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.AssemblyInfo.cs
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.sourcelink.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\scopedcss\bundle\Practica1.styles.css
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets\msbuild.Practica1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets\msbuild.Practica1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets\msbuild.build.Practica1.props
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practica1.props
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practica1.props
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.csproj.Up2Date
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\refint\Practica1.dll
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.pdb
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
+C:\Projects\ProgramacionAvanzadaWeb-Practica1\Practica1\Practica1\obj\Debug\net8.0\ref\Practica1.dll
