@@ -47,17 +47,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Vehiculo"
+                "$ref": "#/components/schemas/VehiculoCreateDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Vehiculo"
+                "$ref": "#/components/schemas/VehiculoCreateDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Vehiculo"
+                "$ref": "#/components/schemas/VehiculoCreateDto"
               }
             }
           }
@@ -87,19 +87,45 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/Vehiculo"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Vehiculo"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/Vehiculo"
+                "type": "object",
+                "properties": {
+                  "Marca": {
+                    "type": "string"
+                  },
+                  "Modelo": {
+                    "type": "string"
+                  },
+                  "Anio": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "Color": {
+                    "type": "string"
+                  },
+                  "Precio": {
+                    "type": "number",
+                    "format": "double"
+                  }
+                }
+              },
+              "encoding": {
+                "Marca": {
+                  "style": "form"
+                },
+                "Modelo": {
+                  "style": "form"
+                },
+                "Anio": {
+                  "style": "form"
+                },
+                "Color": {
+                  "style": "form"
+                },
+                "Precio": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -135,7 +161,7 @@
   },
   "components": {
     "schemas": {
-      "Vehiculo": {
+      "VehiculoCreateDto": {
         "type": "object",
         "properties": {
           "marca": {
@@ -155,8 +181,8 @@
             "nullable": true
           },
           "precio": {
-            "type": "integer",
-            "format": "int32"
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false

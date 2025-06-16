@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Practica1.Controllers.VehiculoController",
-    "Method": "Post",
+    "Method": "NewVehiculo",
     "RelativePath": "api/Vehiculo",
     "HttpMethod": "POST",
     "IsController": true,
@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "vehiculo",
-        "Type": "Practica1.Models.Vehiculo",
+        "Type": "Practica1.Application.DTOs.VehiculoCreateDto",
         "IsRequired": true
       }
     ],
@@ -17,7 +17,7 @@
   },
   {
     "ContainingType": "Practica1.Controllers.VehiculoController",
-    "Method": "Put",
+    "Method": "UpdateVehiculo",
     "RelativePath": "api/Vehiculo/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -29,9 +29,29 @@
         "IsRequired": true
       },
       {
-        "Name": "vehiculo",
-        "Type": "Practica1.Models.Vehiculo",
-        "IsRequired": true
+        "Name": "Marca",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Modelo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Anio",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Color",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Precio",
+        "Type": "System.Decimal",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
