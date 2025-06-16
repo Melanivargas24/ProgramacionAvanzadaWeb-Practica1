@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj": {}
+    "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj": {
+    "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj",
+        "projectUniqueName": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj",
         "projectName": "Practica1",
-        "projectPath": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj",
-        "packagesPath": "C:\\Users\\Melani\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\obj\\",
+        "projectPath": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Practica1.csproj",
+        "packagesPath": "C:\\Users\\casti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Melani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\casti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

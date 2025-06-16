@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\",
+  "WorkspaceRootPath": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|c:\\projects\\programacionavanzadaweb-practica1\\practica1\\practica1\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|c:\\users\\casti\\source\\clientsu\\erick\\programacionavanzadaweb-practica1\\practica1\\practica1\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|solutionrelative:practica1\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|c:\\projects\\programacionavanzadaweb-practica1\\practica1\\practica1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|solutionrelative:practica1\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|c:\\users\\casti\\source\\clientsu\\erick\\programacionavanzadaweb-practica1\\practica1\\practica1\\infrastructure\\repositories\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|solutionrelative:practica1\\infrastructure\\repositories\\vehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|c:\\users\\casti\\source\\clientsu\\erick\\programacionavanzadaweb-practica1\\practica1\\practica1\\domain\\interfaces\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE47398-6FEB-4917-AEA1-3DEA0E343560}|Practica1\\Practica1.csproj|solutionrelative:practica1\\domain\\interfaces\\ivehiculorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 238,
-          "SelectedChildIndex": 59,
+          "DockedWidth": 56,
+          "SelectedChildIndex": 58,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -226,10 +234,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -249,33 +253,48 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Models\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "Practica1\\Models\\Vehiculo.cs",
-              "ToolTip": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Models\\Vehiculo.cs",
-              "RelativeToolTip": "Practica1\\Models\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Title": "VehiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Infrastructure\\Repositories\\VehiculoRepository.cs",
+              "RelativeDocumentMoniker": "Practica1\\Infrastructure\\Repositories\\VehiculoRepository.cs",
+              "ToolTip": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Infrastructure\\Repositories\\VehiculoRepository.cs",
+              "RelativeToolTip": "Practica1\\Infrastructure\\Repositories\\VehiculoRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T05:39:12.997Z",
+              "WhenOpened": "2025-06-16T08:35:52.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VehiculoController.cs",
-              "DocumentMoniker": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Controllers\\VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Controllers\\VehiculoController.cs",
               "RelativeDocumentMoniker": "Practica1\\Controllers\\VehiculoController.cs",
-              "ToolTip": "C:\\Projects\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Controllers\\VehiculoController.cs*",
-              "RelativeToolTip": "Practica1\\Controllers\\VehiculoController.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "Practica1\\Controllers\\VehiculoController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwH0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T05:36:05.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehiculoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Domain\\Interfaces\\IVehiculoRepository.cs",
+              "RelativeDocumentMoniker": "Practica1\\Domain\\Interfaces\\IVehiculoRepository.cs",
+              "ToolTip": "C:\\Users\\casti\\source\\ClientsU\\Erick\\ProgramacionAvanzadaWeb-Practica1\\Practica1\\Practica1\\Domain\\Interfaces\\IVehiculoRepository.cs",
+              "RelativeToolTip": "Practica1\\Domain\\Interfaces\\IVehiculoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:01:16.491Z",
               "EditorCaption": ""
             }
           ]
